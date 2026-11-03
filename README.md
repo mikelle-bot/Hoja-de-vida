@@ -1,9 +1,9 @@
 # Miguel Ángel Pérez Echeverri
-**Estudiante de Ingeniería de Sonido | Profesor de Piano**
+**Ingeniería de Sonido (en curso)**
 📍 Medellín, Colombia
 
 ## Perfil
-Estudiante de Ingeniería de Sonido con sólida base técnica y musical. Experiencia en enseñanza de piano, atención al cliente internacional y soporte técnico. 
+Estudiante de Ingeniería de Sonido. Experiencia en enseñanza de piano, atención al cliente internacional y soporte técnico. 
 
 ## Educación
 * **Pregrado en Ingeniería de Sonido** | Universidad de San Buenaventura (En curso)
@@ -14,7 +14,8 @@ Estudiante de Ingeniería de Sonido con sólida base técnica y musical. Experie
   * Clases particulares de técnica e interpretación musical.
 * **Soporte Técnico y Atención al Cliente** | Tienda de Videojuegos
   * Asistencia y soporte para visitantes extranjeros.
-* **Mesero** | Sector Restaurantero
+* **Mesero** | Davi Arena
+* 
 
 ## Certificaciones
 * **Primer Respondiente** | Alcaldía de Envigado
