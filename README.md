@@ -15,7 +15,6 @@ Estudiante de Ingeniería de Sonido. Experiencia en enseñanza de piano, atenci�
 * **Soporte Técnico y Atención al Cliente** | Tienda de Videojuegos
   * Asistencia y soporte para visitantes extranjeros.
 * **Mesero** | Davi Arena
-* 
 
 ## Certificaciones
 * **Primer Respondiente** | Alcaldía de Envigado
