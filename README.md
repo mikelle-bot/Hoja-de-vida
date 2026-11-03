@@ -1,6 +1,7 @@
 # Miguel Ángel Pérez Echeverri
 **Ingeniería de Sonido (en curso)**
 📍 Medellín, Colombia
+3126725139/miguelangelecheverry9@gmail.com
 
 ## Perfil
 Estudiante de Ingeniería de Sonido. Experiencia en enseñanza de piano, atención al cliente internacional y soporte técnico. 
